@@ -1,3 +1,3 @@
 function hello(){
-    console.log('Hi there!!');
+    console.log('this message added to master.');
 }
